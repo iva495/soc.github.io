@@ -1,0 +1,14 @@
+.nav{
+    grid-area: nv;
+    background: orange;
+    padding: 7%;
+  }
+
+  .item a{
+      color: bisque;
+      text-decoration: none;
+  }
+
+  .item a.activeLink{
+      color: rebeccapurple;
+  }
